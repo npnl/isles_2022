@@ -37,6 +37,6 @@ jupyter-notebook ISLES_Example.ipynb
 ```
 In the menu bar near the top of the window, you'll see an option named `Kernel`. Under it, you can use `Change Kernel`
 to select "Python 3.9 (isles_venv)": 
-![](images/isles_venv_kernel)
+![image](images/isles_venv_kernel.png)
 
 You should now be able to run the notebook.
