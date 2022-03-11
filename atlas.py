@@ -137,10 +137,6 @@ def bidsify_indi_atlas(atlas_path: str, destination_path: str = "data"):
     derivatives_test_dest = testing_dest.joinpath(
         "derivatives", testing_config["data_derivatives_names"][0]
     )
-    # Get test subjects list
-    f = open("data_test_list.txt", "r")
-    test_subjects = set(f.read().splitlines())
-    f.close()
 
     if not derivatives_dest.exists():
         derivatives_dest.mkdir(parents=True, exist_ok=True)
