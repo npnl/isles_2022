@@ -1,5 +1,5 @@
-# ISLES 2022 - Getting Started
-This repository provides detailed information for obtaining data associated with ISLES 2022, along with examples
+# ATLAS (ISLES 2022) Challenge - Getting Started
+This repository provides detailed information for obtaining data associated with the ATLAS challenge at ISLES/MICCAI, along with examples
 of how to use BIDSIO to load batches and write out data in the format expected by the automatic evaluator.  
 
 ## Installation
