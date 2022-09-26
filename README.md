@@ -8,8 +8,8 @@ The examples are provided in a [Jupyter Notebook](https://jupyter.org/) in this 
 in `requirements.txt` and start the notebook. Otherwise, this section will walk you through first-time setup of 
 the notebook.  
   
-1. [Linux Installation](linux)
-2. [MacOS Installation](macos)
+1. [Linux Installation](#linux)
+2. [MacOS Installation](#macos)
 
 ### Linux <a name=linux></a>
 We recommend that you use a Python virtual environment, for which you'll need the `python3.x-venv` package.
